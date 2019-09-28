@@ -1,12 +1,13 @@
 # BizReach World Hackathon Project
 
 ***Group: Mehul and his Chinese friends***
+
 ***Project Name: Coder Finder***
 
 ### Rank
 Evaluate and rank (Java) coders.
 
-Implement page rank algorithm and apply on the coder-following-graph. 
+Implement **page rank** algorithm and apply on the coder-following-graph. 
 
 Score each coder based on the algorithm output and other attributes.
 
@@ -15,7 +16,9 @@ Recommend coders who are most interested in companies.
 
 ### Analyze and statistic github data
 
-Statistic on the language rank and license rank of around 370,000 repo
+Conduct a Statistic on github to have a command of the distribution of the language and license rank among around 370,000 repo and calculate the **TGI(Target Group Index)**
+
+
 # Requirements
  - Flask
  - Pandas
@@ -25,7 +28,7 @@ Statistic on the language rank and license rank of around 370,000 repo
 python app.py
 
 # Development Repo
-[IDEA](https://github.com/tyuanhang/BRWH)
+[Backend](https://github.com/tyuanhang/BRWH)
 
 # Snaps
 ![1](https://user-images.githubusercontent.com/23444642/65814341-399b8a80-e21b-11e9-969f-d7b723f8683d.PNG)
