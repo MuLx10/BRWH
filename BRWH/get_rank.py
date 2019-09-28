@@ -46,7 +46,8 @@ def get_sort_follower(k=15):
 
     for tmp_idx in range(df.shape[0]):
         cur_usr = df.loc[tmp_idx]
-        score_dct[cur_usr.Name] = (cur_usr.Follower, cur_usr.Follower, int(cur_usr.pagerank_score), cur_usr.repo_cnt, cur_usr.avatar_url, cur_usr.other_lang)
+        tmp_score = cur_usr.Follower + cur_usr.pagerank_score
+        score_dct[cur_usr.Name] = (cur_usr.Follower, tmp_score, int(cur_usr.pagerank_score), cur_usr.repo_cnt, cur_usr.avatar_url, cur_usr.other_lang)
     #print(score_dct)
     # return
 
@@ -61,8 +62,8 @@ def get_sort_follower(k=15):
     for tmp_name, tmp_info in sorted_x:
         res.append({})
         res[-1]['name'] = tmp_name
-        res[-1]['score'],\
-            res[-1]['follower'],\
+        res[-1]['follower'],\
+            res[-1]['score'],\
             res[-1]['pr_score'],\
             res[-1]['repo'],\
             res[-1]['avatar_url'],\
@@ -78,7 +79,8 @@ def get_sort_repo(k=15):
 
     for tmp_idx in range(df.shape[0]):
         cur_usr = df.loc[tmp_idx]
-        score_dct[cur_usr.Name] = (cur_usr.repo_cnt, cur_usr.Follower, int(cur_usr.pagerank_score), cur_usr.repo_cnt, cur_usr.avatar_url, cur_usr.other_lang)
+        tmp_score = cur_usr.Follower + cur_usr.pagerank_score
+        score_dct[cur_usr.Name] = (cur_usr.repo_cnt, tmp_score, cur_usr.Follower, int(cur_usr.pagerank_score), cur_usr.avatar_url, cur_usr.other_lang)
     #print(score_dct)
     # return
 
@@ -93,10 +95,10 @@ def get_sort_repo(k=15):
     for tmp_name, tmp_info in sorted_x:
         res.append({})
         res[-1]['name'] = tmp_name
-        res[-1]['score'],\
+        res[-1]['repo'],\
             res[-1]['follower'],\
             res[-1]['pr_score'],\
-            res[-1]['repo'],\
+            res[-1]['score'],\
             res[-1]['avatar_url'],\
             res[-1]['other_lang'] = tmp_info
         res[-1]['cat'] = 'user'
