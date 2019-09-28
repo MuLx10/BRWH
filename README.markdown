@@ -5,7 +5,10 @@
 ***Project Name: Coder Finder***
 
 ### Rank
+
 Evaluate and rank (Java) coders.
+
+Inspired by ***Page Rank*** algorithm of Google, we a
 
 Implement **page rank** algorithm and apply on the coder-following-graph. 
 
