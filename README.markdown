@@ -4,6 +4,10 @@
 
 ***Project Name: Coder Finder***
 
+### Background
+
+As a **Job Agency**, we wanna provide better service for both job-seekers and 
+
 ### Rank
 
 Evaluate and rank (Java) coders.
