@@ -1,0 +1,5732 @@
+[
+    {
+        "language": "Java", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 140
+    }, 
+    {
+        "language": "OpenEdge ABL", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PHP", 
+        "license": "isc", 
+        "repo_cnt": 28
+    }, 
+    {
+        "language": "Scala", 
+        "license": "mit", 
+        "repo_cnt": 104
+    }, 
+    {
+        "language": "Swift", 
+        "license": "mit", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "KiCad", 
+        "license": "apache-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C#", 
+        "license": "wtfpl", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "HaXe", 
+        "license": "apache-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C++", 
+        "license": "", 
+        "repo_cnt": 6371
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "", 
+        "repo_cnt": 803
+    }, 
+    {
+        "language": "", 
+        "license": "wtfpl", 
+        "repo_cnt": 16
+    }, 
+    {
+        "language": "Python", 
+        "license": "mpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "HTML", 
+        "license": "cc-by-4.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "mit", 
+        "repo_cnt": 278
+    }, 
+    {
+        "language": "", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 26
+    }, 
+    {
+        "language": "Go", 
+        "license": "", 
+        "repo_cnt": 294
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Puppet", 
+        "license": "isc", 
+        "repo_cnt": 16
+    }, 
+    {
+        "language": "Scala", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 31
+    }, 
+    {
+        "language": "FORTRAN", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 84
+    }, 
+    {
+        "language": "XS", 
+        "license": "", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 58
+    }, 
+    {
+        "language": "Matlab", 
+        "license": "mit", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Go", 
+        "license": "wtfpl", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Nu", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "ApacheConf", 
+        "license": "", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 30
+    }, 
+    {
+        "language": "Mathematica", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "C++", 
+        "license": "zlib", 
+        "repo_cnt": 19
+    }, 
+    {
+        "language": "XQuery", 
+        "license": "other", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "Nginx", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1420
+    }, 
+    {
+        "language": "Boo", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Lua", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 29
+    }, 
+    {
+        "language": "Assembly", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "zlib", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "C++", 
+        "license": "other", 
+        "repo_cnt": 1738
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "wtfpl", 
+        "repo_cnt": 43
+    }, 
+    {
+        "language": "HTML", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Delphi", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "wtfpl", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "bsl-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "XML", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Elm", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Perl", 
+        "license": "other", 
+        "repo_cnt": 921
+    }, 
+    {
+        "language": "Go", 
+        "license": "zlib", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "other", 
+        "repo_cnt": 787
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 14
+    }, 
+    {
+        "language": "PHP", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 249
+    }, 
+    {
+        "language": "F#", 
+        "license": "unlicense", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Eiffel", 
+        "license": "", 
+        "repo_cnt": 26
+    }, 
+    {
+        "language": "CoffeeScript", 
+        "license": "mit", 
+        "repo_cnt": 36
+    }, 
+    {
+        "language": "Scilab", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "VimL", 
+        "license": "bsl-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 331
+    }, 
+    {
+        "language": "C", 
+        "license": "mit", 
+        "repo_cnt": 721
+    }, 
+    {
+        "language": "Groff", 
+        "license": "", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Mathematica", 
+        "license": "mit", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Perl 6", 
+        "license": "", 
+        "repo_cnt": 16
+    }, 
+    {
+        "language": "", 
+        "license": "lppl-1.3c", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Puppet", 
+        "license": "other", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "C#", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "D", 
+        "license": "bsl-1.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "afl-3.0", 
+        "repo_cnt": 115
+    }, 
+    {
+        "language": "Java", 
+        "license": "other", 
+        "repo_cnt": 2041
+    }, 
+    {
+        "language": "Vala", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "HTML", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "AutoHotkey", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Diff", 
+        "license": "other", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Makefile", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "CoffeeScript", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "ASP", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Boo", 
+        "license": "", 
+        "repo_cnt": 14
+    }, 
+    {
+        "language": "C", 
+        "license": "ms-pl", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Dart", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "afl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Boo", 
+        "license": "other", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "", 
+        "license": "other", 
+        "repo_cnt": 1336
+    }, 
+    {
+        "language": "Factor", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "AppleScript", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "CMake", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "XSLT", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Shell", 
+        "license": "wtfpl", 
+        "repo_cnt": 22
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "wtfpl", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1058
+    }, 
+    {
+        "language": "VimL", 
+        "license": "wtfpl", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 41
+    }, 
+    {
+        "language": "Groff", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PHP", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 420
+    }, 
+    {
+        "language": "HTML", 
+        "license": "cc-by-sa-4.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Go", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Makefile", 
+        "license": "ofl-1.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "eC", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "VHDL", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Fortran", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "wtfpl", 
+        "repo_cnt": 36
+    }, 
+    {
+        "language": "Perl6", 
+        "license": "mit", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "XSLT", 
+        "license": "epl-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Perl6", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "bsl-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "mit", 
+        "repo_cnt": 18
+    }, 
+    {
+        "language": "PowerShell", 
+        "license": "", 
+        "repo_cnt": 23
+    }, 
+    {
+        "language": "HTML", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "AGS Script", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Verilog", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 18
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "other", 
+        "repo_cnt": 173
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 145
+    }, 
+    {
+        "language": "Matlab", 
+        "license": "apache-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "TypeScript", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "C#", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 74
+    }, 
+    {
+        "language": "F#", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Pascal", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C", 
+        "license": "postgresql", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 116
+    }, 
+    {
+        "language": "Shell", 
+        "license": "isc", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "Game Maker Language", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "C++", 
+        "license": "ms-rl", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "", 
+        "license": "cc0-1.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Augeas", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C++", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 97
+    }, 
+    {
+        "language": "Swift", 
+        "license": "", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "Pascal", 
+        "license": "mit", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Python", 
+        "license": "unlicense", 
+        "repo_cnt": 54
+    }, 
+    {
+        "language": "YASnippet", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "BitBake", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PLpgSQL", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "TypeScript", 
+        "license": "mit", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "wtfpl", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Eagle", 
+        "license": "", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "F#", 
+        "license": "", 
+        "repo_cnt": 74
+    }, 
+    {
+        "language": "Makefile", 
+        "license": "", 
+        "repo_cnt": 68
+    }, 
+    {
+        "language": "Vue", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Groff", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 25
+    }, 
+    {
+        "language": "E", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "HTML", 
+        "license": "ofl-1.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Awk", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "cc0-1.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Tcl", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Python", 
+        "license": "isc", 
+        "repo_cnt": 36
+    }, 
+    {
+        "language": "", 
+        "license": "mit", 
+        "repo_cnt": 1176
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 308
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "other", 
+        "repo_cnt": 8097
+    }, 
+    {
+        "language": "SuperCollider", 
+        "license": "", 
+        "repo_cnt": 48
+    }, 
+    {
+        "language": "VimL", 
+        "license": "other", 
+        "repo_cnt": 23
+    }, 
+    {
+        "language": "PLpgSQL", 
+        "license": "", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Go", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "BitBake", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "HaXe", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "C", 
+        "license": "wtfpl", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "eupl-1.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "D", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Eiffel", 
+        "license": "other", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Clean", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Visual Basic", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "CSS", 
+        "license": "other", 
+        "repo_cnt": 55
+    }, 
+    {
+        "language": "GAP", 
+        "license": "mit", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Visual Basic", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "ASP", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "bsd-3-clause-clear", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "R", 
+        "license": "", 
+        "repo_cnt": 271
+    }, 
+    {
+        "language": "Perl6", 
+        "license": "", 
+        "repo_cnt": 47
+    }, 
+    {
+        "language": "Verilog", 
+        "license": "other", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 19
+    }, 
+    {
+        "language": "Python", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1505
+    }, 
+    {
+        "language": "FORTRAN", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Terra", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C#", 
+        "license": "isc", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Perl", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 33
+    }, 
+    {
+        "language": "Factor", 
+        "license": "other", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "isc", 
+        "repo_cnt": 10
+    }, 
+    {
+        "language": "", 
+        "license": "epl-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Tcl", 
+        "license": "mit", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "C", 
+        "license": "ms-rl", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Smalltalk", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C", 
+        "license": "unlicense", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "C", 
+        "license": "mpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "D", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "apache-2.0", 
+        "repo_cnt": 177
+    }, 
+    {
+        "language": "Visual Basic", 
+        "license": "mit", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "FORTRAN", 
+        "license": "other", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "", 
+        "license": "mpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "NSIS", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Shell", 
+        "license": "cc-by-sa-4.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Logos", 
+        "license": "", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "C#", 
+        "license": "", 
+        "repo_cnt": 4217
+    }, 
+    {
+        "language": "Assembly", 
+        "license": "apache-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C", 
+        "license": "epl-1.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Ragel", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Roff", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "ColdFusion", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "C", 
+        "license": "other", 
+        "repo_cnt": 3532
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 15
+    }, 
+    {
+        "language": "HCL", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Ada", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "", 
+        "license": "ms-pl", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Haxe", 
+        "license": "mit", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Vim script", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 18
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "epl-1.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "apache-2.0", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Rouge", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "ecl-2.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "RPC", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "REALbasic", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Smalltalk", 
+        "license": "", 
+        "repo_cnt": 58
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 80
+    }, 
+    {
+        "language": "F#", 
+        "license": "other", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "CSS", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "TeX", 
+        "license": "mit", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "apache-2.0", 
+        "repo_cnt": 19
+    }, 
+    {
+        "language": "C#", 
+        "license": "zlib", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Arduino", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Python", 
+        "license": "wtfpl", 
+        "repo_cnt": 34
+    }, 
+    {
+        "language": "Vala", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "mit", 
+        "repo_cnt": 16
+    }, 
+    {
+        "language": "Python", 
+        "license": "other", 
+        "repo_cnt": 4428
+    }, 
+    {
+        "language": "Lex", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "XSLT", 
+        "license": "apache-2.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "", 
+        "repo_cnt": 455
+    }, 
+    {
+        "language": "Perl", 
+        "license": "wtfpl", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "R", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Stata", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Python", 
+        "license": "cc0-1.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Matlab", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "DOT", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "mit", 
+        "repo_cnt": 5596
+    }, 
+    {
+        "language": "Matlab", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "Perl", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 125
+    }, 
+    {
+        "language": "CSS", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "VimL", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Factor", 
+        "license": "", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "MTML", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "mit", 
+        "repo_cnt": 89
+    }, 
+    {
+        "language": "Boo", 
+        "license": "mit", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Agda", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Python", 
+        "license": "apache-2.0", 
+        "repo_cnt": 455
+    }, 
+    {
+        "language": "Web Ontology Language", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Shell", 
+        "license": "cc0-1.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "TeX", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "", 
+        "repo_cnt": 232
+    }, 
+    {
+        "language": "sed", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "CSS", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 40
+    }, 
+    {
+        "language": "Bison", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "apache-2.0", 
+        "repo_cnt": 139
+    }, 
+    {
+        "language": "Makefile", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 109
+    }, 
+    {
+        "language": "Web Ontology Language", 
+        "license": "apache-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "REALbasic", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Crystal", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PHP", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Smalltalk", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Julia", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Shell", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 246
+    }, 
+    {
+        "language": "XS", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Perl6", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 10
+    }, 
+    {
+        "language": "Matlab", 
+        "license": "", 
+        "repo_cnt": 73
+    }, 
+    {
+        "language": "CSS", 
+        "license": "apache-2.0", 
+        "repo_cnt": 12
+    }, 
+    {
+        "language": "Processing", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C++", 
+        "license": "ofl-1.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "", 
+        "repo_cnt": 1109
+    }, 
+    {
+        "language": "VimL", 
+        "license": "apache-2.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "C++", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 124
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "unlicense", 
+        "repo_cnt": 119
+    }, 
+    {
+        "language": "AGS Script", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "isc", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "GLSL", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Roff", 
+        "license": "", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "Perl", 
+        "license": "isc", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Nim", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "VimL", 
+        "license": "unlicense", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Arduino", 
+        "license": "", 
+        "repo_cnt": 12
+    }, 
+    {
+        "language": "AngelScript", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Prolog", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "OpenEdge ABL", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Objective-J", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "other", 
+        "repo_cnt": 87
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "other", 
+        "repo_cnt": 56
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "apache-2.0", 
+        "repo_cnt": 1291
+    }, 
+    {
+        "language": "Nim", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Shell", 
+        "license": "mit", 
+        "repo_cnt": 218
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "wtfpl", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 422
+    }, 
+    {
+        "language": "Visual Basic", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Smarty", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "unlicense", 
+        "repo_cnt": 21
+    }, 
+    {
+        "language": "C", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 19
+    }, 
+    {
+        "language": "Python", 
+        "license": "bsd-3-clause-clear", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "mit", 
+        "repo_cnt": 149
+    }, 
+    {
+        "language": "Java", 
+        "license": "isc", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "osl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Java", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "mit", 
+        "repo_cnt": 94
+    }, 
+    {
+        "language": "HTML", 
+        "license": "", 
+        "repo_cnt": 1019
+    }, 
+    {
+        "language": "C++", 
+        "license": "mit", 
+        "repo_cnt": 322
+    }, 
+    {
+        "language": "PHP", 
+        "license": "cc0-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "unlicense", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 12
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "isc", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Racket", 
+        "license": "", 
+        "repo_cnt": 60
+    }, 
+    {
+        "language": "Java", 
+        "license": "epl-1.0", 
+        "repo_cnt": 41
+    }, 
+    {
+        "language": "C#", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 32
+    }, 
+    {
+        "language": "FLUX", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C", 
+        "license": "zlib", 
+        "repo_cnt": 18
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "unlicense", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Ada", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Haxe", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Diff", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "apache-2.0", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 347
+    }, 
+    {
+        "language": "TypeScript", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "C++", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 24
+    }, 
+    {
+        "language": "C#", 
+        "license": "unlicense", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "SQF", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "HTML", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Racket", 
+        "license": "other", 
+        "repo_cnt": 26
+    }, 
+    {
+        "language": "XSLT", 
+        "license": "other", 
+        "repo_cnt": 10
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "other", 
+        "repo_cnt": 400
+    }, 
+    {
+        "language": "Fortran", 
+        "license": "other", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "Assembly", 
+        "license": "mit", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 109
+    }, 
+    {
+        "language": "XSLT", 
+        "license": "", 
+        "repo_cnt": 58
+    }, 
+    {
+        "language": "KiCad", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "CSS", 
+        "license": "isc", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 44
+    }, 
+    {
+        "language": "Vim script", 
+        "license": "mit", 
+        "repo_cnt": 46
+    }, 
+    {
+        "language": "Logtalk", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "epl-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 44
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 71
+    }, 
+    {
+        "language": "", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 59
+    }, 
+    {
+        "language": "C", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 322
+    }, 
+    {
+        "language": "Prolog", 
+        "license": "other", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Mathematica", 
+        "license": "", 
+        "repo_cnt": 10
+    }, 
+    {
+        "language": "D", 
+        "license": "mpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Logtalk", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "VCL", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Jupyter Notebook", 
+        "license": "", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Processing", 
+        "license": "mit", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "", 
+        "repo_cnt": 1625
+    }, 
+    {
+        "language": "Java", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 714
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "other", 
+        "repo_cnt": 4743
+    }, 
+    {
+        "language": "Perl", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 150
+    }, 
+    {
+        "language": "ooc", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "xBase", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C++", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 182
+    }, 
+    {
+        "language": "Verilog", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C++", 
+        "license": "wtfpl", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "Pascal", 
+        "license": "apache-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Shell", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Gherkin", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "VHDL", 
+        "license": "", 
+        "repo_cnt": 62
+    }, 
+    {
+        "language": "Tcl", 
+        "license": "", 
+        "repo_cnt": 84
+    }, 
+    {
+        "language": "Python", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 855
+    }, 
+    {
+        "language": "D", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Mathematica", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Go", 
+        "license": "other", 
+        "repo_cnt": 83
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "C++", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1479
+    }, 
+    {
+        "language": "Assembly", 
+        "license": "other", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "VimL", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 10
+    }, 
+    {
+        "language": "Game Maker Language", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "D", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "HaXe", 
+        "license": "other", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "CoffeeScript", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "R", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 583
+    }, 
+    {
+        "language": "C++", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Mathematica", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "VHDL", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Io", 
+        "license": "mit", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "C#", 
+        "license": "other", 
+        "repo_cnt": 1037
+    }, 
+    {
+        "language": "Parrot", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "HCL", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "M4", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Perl", 
+        "license": "unlicense", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "isc", 
+        "repo_cnt": 122
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "wtfpl", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Perl", 
+        "license": "apache-2.0", 
+        "repo_cnt": 33
+    }, 
+    {
+        "language": "Logos", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PLpgSQL", 
+        "license": "other", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Fortran", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PHP", 
+        "license": "unlicense", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "TypeScript", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "VimL", 
+        "license": "isc", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Mirah", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "YASnippet", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PostScript", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "TeX", 
+        "license": "", 
+        "repo_cnt": 244
+    }, 
+    {
+        "language": "Matlab", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Swift", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "NSIS", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "", 
+        "repo_cnt": 1384
+    }, 
+    {
+        "language": "R", 
+        "license": "other", 
+        "repo_cnt": 41
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "epl-1.0", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 12
+    }, 
+    {
+        "language": "C++", 
+        "license": "apache-2.0", 
+        "repo_cnt": 203
+    }, 
+    {
+        "language": "KiCad", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Verilog", 
+        "license": "", 
+        "repo_cnt": 64
+    }, 
+    {
+        "language": "HTML", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "LLVM", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Augeas", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "C#", 
+        "license": "osl-3.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Vala", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "ColdFusion", 
+        "license": "mit", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 86
+    }, 
+    {
+        "language": "QML", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Boo", 
+        "license": "apache-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "ColdFusion", 
+        "license": "other", 
+        "repo_cnt": 40
+    }, 
+    {
+        "language": "ooc", 
+        "license": "other", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Elixir", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "SQL", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "QML", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "ooc", 
+        "license": "zlib", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "D", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "VHDL", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "FORTRAN", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "ooc", 
+        "license": "isc", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Matlab", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "VimL", 
+        "license": "", 
+        "repo_cnt": 6098
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 24
+    }, 
+    {
+        "language": "F#", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C#", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 121
+    }, 
+    {
+        "language": "HTML", 
+        "license": "mit", 
+        "repo_cnt": 89
+    }, 
+    {
+        "language": "Java", 
+        "license": "unlicense", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Gosu", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Mask", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Lua", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Roff", 
+        "license": "other", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Perl6", 
+        "license": "isc", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Awk", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "FORTRAN", 
+        "license": "", 
+        "repo_cnt": 70
+    }, 
+    {
+        "language": "Java", 
+        "license": "apache-2.0", 
+        "repo_cnt": 1608
+    }, 
+    {
+        "language": "R", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "CoffeeScript", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "C#", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "OpenEdge ABL", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "FORTRAN", 
+        "license": "mit", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "VCL", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C", 
+        "license": "bsl-1.0", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "AutoHotkey", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Makefile", 
+        "license": "apache-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "bsl-1.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "C", 
+        "license": "", 
+        "repo_cnt": 8977
+    }, 
+    {
+        "language": "MAXScript", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Vala", 
+        "license": "", 
+        "repo_cnt": 27
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "", 
+        "repo_cnt": 3490
+    }, 
+    {
+        "language": "C++", 
+        "license": "mpl-2.0", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "GAP", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Visual Basic", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 295
+    }, 
+    {
+        "language": "VHDL", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "HLSL", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "CSS", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "unlicense", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Smalltalk", 
+        "license": "other", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Go", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "HaXe", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Scala", 
+        "license": "epl-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "zlib", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "TeX", 
+        "license": "other", 
+        "repo_cnt": 21
+    }, 
+    {
+        "language": "Scala", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 27
+    }, 
+    {
+        "language": "Pure Data", 
+        "license": "", 
+        "repo_cnt": 52
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "other", 
+        "repo_cnt": 248
+    }, 
+    {
+        "language": "", 
+        "license": "unlicense", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "apache-2.0", 
+        "repo_cnt": 108
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "osl-3.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "CMake", 
+        "license": "other", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "HaXe", 
+        "license": "", 
+        "repo_cnt": 73
+    }, 
+    {
+        "language": "PostScript", 
+        "license": "", 
+        "repo_cnt": 14
+    }, 
+    {
+        "language": "Go", 
+        "license": "mit", 
+        "repo_cnt": 58
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Makefile", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Tcl", 
+        "license": "apache-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Objective-C++", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Visual Basic", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "PHP", 
+        "license": "mit", 
+        "repo_cnt": 1584
+    }, 
+    {
+        "language": "Java", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 27
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 49
+    }, 
+    {
+        "language": "C", 
+        "license": "isc", 
+        "repo_cnt": 53
+    }, 
+    {
+        "language": "Perl6", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Tcl", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Python", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 152
+    }, 
+    {
+        "language": "HTML", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Java", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 118
+    }, 
+    {
+        "language": "C#", 
+        "license": "bsl-1.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Scala", 
+        "license": "", 
+        "repo_cnt": 1484
+    }, 
+    {
+        "language": "Objective-J", 
+        "license": "other", 
+        "repo_cnt": 16
+    }, 
+    {
+        "language": "Pascal", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Vala", 
+        "license": "other", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 180
+    }, 
+    {
+        "language": "Haxe", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "HTML", 
+        "license": "other", 
+        "repo_cnt": 108
+    }, 
+    {
+        "language": "Prolog", 
+        "license": "", 
+        "repo_cnt": 76
+    }, 
+    {
+        "language": "C", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "Shell", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 16
+    }, 
+    {
+        "language": "Java", 
+        "license": "", 
+        "repo_cnt": 13563
+    }, 
+    {
+        "language": "Python", 
+        "license": "mit", 
+        "repo_cnt": 2497
+    }, 
+    {
+        "language": "Scala", 
+        "license": "apache-2.0", 
+        "repo_cnt": 233
+    }, 
+    {
+        "language": "Tcl", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "SQL", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Java", 
+        "license": "ms-pl", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "CSS", 
+        "license": "", 
+        "repo_cnt": 774
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "cc0-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "VHDL", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Vim script", 
+        "license": "unlicense", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "TypeScript", 
+        "license": "apache-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "PHP", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 94
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 19
+    }, 
+    {
+        "language": "Pike", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Pure Data", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "VimL", 
+        "license": "cc0-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Perl", 
+        "license": "zlib", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "mpl-2.0", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "Makefile", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "zlib", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Scala", 
+        "license": "other", 
+        "repo_cnt": 312
+    }, 
+    {
+        "language": "VimL", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Go", 
+        "license": "mpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Shell", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "Roff", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "LSL", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Perl", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Rebol", 
+        "license": "", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Arduino", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "cc-by-sa-4.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "AutoHotkey", 
+        "license": "", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "", 
+        "license": "bsl-1.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "cc0-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "epl-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Jupyter Notebook", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "CoffeeScript", 
+        "license": "apache-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Ragel in Ruby Host", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "apache-2.0", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "M", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 29
+    }, 
+    {
+        "language": "Pascal", 
+        "license": "other", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "Rust", 
+        "license": "", 
+        "repo_cnt": 15
+    }, 
+    {
+        "language": "", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 313
+    }, 
+    {
+        "language": "Nu", 
+        "license": "apache-2.0", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Elixir", 
+        "license": "", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Perl", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 16
+    }, 
+    {
+        "language": "PHP", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 114
+    }, 
+    {
+        "language": "AppleScript", 
+        "license": "mit", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Python", 
+        "license": "zlib", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "HaXe", 
+        "license": "mit", 
+        "repo_cnt": 14
+    }, 
+    {
+        "language": "Puppet", 
+        "license": "apache-2.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "CSS", 
+        "license": "unlicense", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "", 
+        "repo_cnt": 46826
+    }, 
+    {
+        "language": "Ragel", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 202
+    }, 
+    {
+        "language": "Max/MSP", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "PowerShell", 
+        "license": "mit", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "Objective-J", 
+        "license": "mit", 
+        "repo_cnt": 27
+    }, 
+    {
+        "language": "C#", 
+        "license": "cc-by-sa-4.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "apache-2.0", 
+        "repo_cnt": 30
+    }, 
+    {
+        "language": "PHP", 
+        "license": "osl-3.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Pure Data", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Kotlin", 
+        "license": "apache-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Parrot", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Python", 
+        "license": "ecl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Elixir", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "AGS Script", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Python", 
+        "license": "afl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Vim script", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "SuperCollider", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "ASP", 
+        "license": "", 
+        "repo_cnt": 81
+    }, 
+    {
+        "language": "Lua", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 12
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Puppet", 
+        "license": "", 
+        "repo_cnt": 76
+    }, 
+    {
+        "language": "Puppet", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "ooc", 
+        "license": "", 
+        "repo_cnt": 86
+    }, 
+    {
+        "language": "C", 
+        "license": "afl-3.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Batchfile", 
+        "license": "wtfpl", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Tcl", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Perl 6", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "AutoIt", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "TypeScript", 
+        "license": "", 
+        "repo_cnt": 12
+    }, 
+    {
+        "language": "LilyPond", 
+        "license": "", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "Ragel", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Lua", 
+        "license": "wtfpl", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Lua", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Java", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 74
+    }, 
+    {
+        "language": "Fancy", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "", 
+        "license": "apache-2.0", 
+        "repo_cnt": 148
+    }, 
+    {
+        "language": "C++", 
+        "license": "ms-pl", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "SuperCollider", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Shell", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 19
+    }, 
+    {
+        "language": "XSLT", 
+        "license": "mit", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Rebol", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Oxygene", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "F#", 
+        "license": "mit", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Lua", 
+        "license": "apache-2.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Standard ML", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "D", 
+        "license": "apache-2.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "ColdFusion", 
+        "license": "apache-2.0", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Python", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 215
+    }, 
+    {
+        "language": "Lua", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "XSLT", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PHP", 
+        "license": "mpl-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Mercury", 
+        "license": "cc0-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Standard ML", 
+        "license": "", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "Prolog", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "AutoIt", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 49
+    }, 
+    {
+        "language": "", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "other", 
+        "repo_cnt": 108
+    }, 
+    {
+        "language": "Scala", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 12
+    }, 
+    {
+        "language": "FORTRAN", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Haxe", 
+        "license": "", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "Arduino", 
+        "license": "apache-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "CMake", 
+        "license": "bsl-1.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "other", 
+        "repo_cnt": 107
+    }, 
+    {
+        "language": "CoffeeScript", 
+        "license": "", 
+        "repo_cnt": 90
+    }, 
+    {
+        "language": "", 
+        "license": "isc", 
+        "repo_cnt": 23
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "wtfpl", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Racket", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "HTML", 
+        "license": "bsl-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Python", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "GLSL", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Ada", 
+        "license": "", 
+        "repo_cnt": 10
+    }, 
+    {
+        "language": "SQLPL", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 174
+    }, 
+    {
+        "language": "Tcl", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Go", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Lua", 
+        "license": "mit", 
+        "repo_cnt": 113
+    }, 
+    {
+        "language": "C#", 
+        "license": "apache-2.0", 
+        "repo_cnt": 258
+    }, 
+    {
+        "language": "Groff", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PHP", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 977
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 176
+    }, 
+    {
+        "language": "Delphi", 
+        "license": "", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "epl-1.0", 
+        "repo_cnt": 150
+    }, 
+    {
+        "language": "Coq", 
+        "license": "", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Io", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "zlib", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Matlab", 
+        "license": "other", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "mit", 
+        "repo_cnt": 612
+    }, 
+    {
+        "language": "Verilog", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Python", 
+        "license": "ms-pl", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 23
+    }, 
+    {
+        "language": "Cuda", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Batchfile", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C#", 
+        "license": "mit", 
+        "repo_cnt": 354
+    }, 
+    {
+        "language": "PHP", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 96
+    }, 
+    {
+        "language": "PHP", 
+        "license": "wtfpl", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 14
+    }, 
+    {
+        "language": "Perl", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 18
+    }, 
+    {
+        "language": "Rust", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "IDL", 
+        "license": "", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "apache-2.0", 
+        "repo_cnt": 498
+    }, 
+    {
+        "language": "Max", 
+        "license": "other", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "F#", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Agda", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "D", 
+        "license": "", 
+        "repo_cnt": 141
+    }, 
+    {
+        "language": "Objective-C++", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Go", 
+        "license": "apache-2.0", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "isc", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Parrot", 
+        "license": "", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "CMake", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Assembly", 
+        "license": "", 
+        "repo_cnt": 113
+    }, 
+    {
+        "language": "C#", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Scala", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "PHP", 
+        "license": "apache-2.0", 
+        "repo_cnt": 219
+    }, 
+    {
+        "language": "Rebol", 
+        "license": "apache-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "XSLT", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Arc", 
+        "license": "other", 
+        "repo_cnt": 20
+    }, 
+    {
+        "language": "SQLPL", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Vim script", 
+        "license": "other", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "C++", 
+        "license": "unlicense", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Delphi", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 453
+    }, 
+    {
+        "language": "PLSQL", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "GDB", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "CoffeeScript", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "NewLisp", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "ooc", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Pure Data", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "XSLT", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C", 
+        "license": "apache-2.0", 
+        "repo_cnt": 163
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "", 
+        "repo_cnt": 30228
+    }, 
+    {
+        "language": "VHDL", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "CLIPS", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Agda", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Common Workflow Language", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Vala", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Vim script", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "isc", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Haxe", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "isc", 
+        "repo_cnt": 33
+    }, 
+    {
+        "language": "Prolog", 
+        "license": "unlicense", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "HTML", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Scala", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 14
+    }, 
+    {
+        "language": "SAS", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "", 
+        "license": "ofl-1.1", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "TeX", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Standard ML", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Forth", 
+        "license": "other", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Shell", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 30
+    }, 
+    {
+        "language": "XProc", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Makefile", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Visual Basic", 
+        "license": "other", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "wtfpl", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Mirah", 
+        "license": "apache-2.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Assembly", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Coq", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 476
+    }, 
+    {
+        "language": "Python", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1178
+    }, 
+    {
+        "language": "Shell", 
+        "license": "apache-2.0", 
+        "repo_cnt": 37
+    }, 
+    {
+        "language": "", 
+        "license": "", 
+        "repo_cnt": 66627
+    }, 
+    {
+        "language": "Kotlin", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "HTML", 
+        "license": "isc", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Pascal", 
+        "license": "", 
+        "repo_cnt": 71
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "zlib", 
+        "repo_cnt": 10
+    }, 
+    {
+        "language": "Slash", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Pascal", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "AppleScript", 
+        "license": "", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "Python", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 132
+    }, 
+    {
+        "language": "Objective-C++", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 25
+    }, 
+    {
+        "language": "AppleScript", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Mathematica", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Visual Basic", 
+        "license": "", 
+        "repo_cnt": 324
+    }, 
+    {
+        "language": "nesC", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Shell", 
+        "license": "", 
+        "repo_cnt": 4536
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 707
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "zlib", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Objective-J", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 94
+    }, 
+    {
+        "language": "Objective-J", 
+        "license": "", 
+        "repo_cnt": 183
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "", 
+        "repo_cnt": 691
+    }, 
+    {
+        "language": "Lua", 
+        "license": "zlib", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Prolog", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Perl 6", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Lua", 
+        "license": "other", 
+        "repo_cnt": 152
+    }, 
+    {
+        "language": "POV-Ray SDL", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "D", 
+        "license": "mit", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "C++", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 637
+    }, 
+    {
+        "language": "Max", 
+        "license": "", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "VimL", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "Shell", 
+        "license": "epl-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Java", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "Cuda", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PHP", 
+        "license": "bsd-3-clause-clear", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "epl-1.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 12
+    }, 
+    {
+        "language": "Processing", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "PHP", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 31
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 26
+    }, 
+    {
+        "language": "Tcl", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Arc", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "VimL", 
+        "license": "mit", 
+        "repo_cnt": 100
+    }, 
+    {
+        "language": "Hack", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "isc", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C++", 
+        "license": "epl-1.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "C++", 
+        "license": "isc", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "Scala", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "mit", 
+        "repo_cnt": 30824
+    }, 
+    {
+        "language": "Vim script", 
+        "license": "wtfpl", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Self", 
+        "license": "", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Parrot", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 42
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "ChucK", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 191
+    }, 
+    {
+        "language": "PHP", 
+        "license": "", 
+        "repo_cnt": 14567
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "", 
+        "repo_cnt": 2005
+    }, 
+    {
+        "language": "Objective-J", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Forth", 
+        "license": "", 
+        "repo_cnt": 14
+    }, 
+    {
+        "language": "Makefile", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Eiffel", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Nu", 
+        "license": "", 
+        "repo_cnt": 28
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 29
+    }, 
+    {
+        "language": "Shell", 
+        "license": "other", 
+        "repo_cnt": 417
+    }, 
+    {
+        "language": "CSS", 
+        "license": "mit", 
+        "repo_cnt": 59
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "PHP", 
+        "license": "other", 
+        "repo_cnt": 2527
+    }, 
+    {
+        "language": "Vim script", 
+        "license": "", 
+        "repo_cnt": 855
+    }, 
+    {
+        "language": "Assembly", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Gnuplot", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "GAMS", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Ragel in Ruby Host", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PHP", 
+        "license": "zlib", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Processing", 
+        "license": "", 
+        "repo_cnt": 28
+    }, 
+    {
+        "language": "XQuery", 
+        "license": "", 
+        "repo_cnt": 16
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "unlicense", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Perl6", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Lua", 
+        "license": "", 
+        "repo_cnt": 1514
+    }, 
+    {
+        "language": "Turing", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "CMake", 
+        "license": "apache-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Objective-J", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Ada", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Perl", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "CSS", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Mirah", 
+        "license": "", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Smarty", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Shell", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 191
+    }, 
+    {
+        "language": "Tcl", 
+        "license": "other", 
+        "repo_cnt": 19
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "apache-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Go", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 10
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "", 
+        "repo_cnt": 5524
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "F#", 
+        "license": "apache-2.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "other", 
+        "repo_cnt": 1309
+    }, 
+    {
+        "language": "GLSL", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "CMake", 
+        "license": "", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "zlib", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "TeX", 
+        "license": "lppl-1.3c", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "TeX", 
+        "license": "apache-2.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 478
+    }, 
+    {
+        "language": "M4", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Python", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 224
+    }, 
+    {
+        "language": "Puppet", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "C", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 38
+    }, 
+    {
+        "language": "Python", 
+        "license": "", 
+        "repo_cnt": 19366
+    }, 
+    {
+        "language": "BlitzMax", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Perl", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 491
+    }, 
+    {
+        "language": "CSS", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "", 
+        "license": "cc-by-4.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "mit", 
+        "repo_cnt": 315
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Io", 
+        "license": "", 
+        "repo_cnt": 51
+    }, 
+    {
+        "language": "Scala", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Matlab", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "ASP", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "TeX", 
+        "license": "wtfpl", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Bro", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Shell", 
+        "license": "unlicense", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "HTML", 
+        "license": "apache-2.0", 
+        "repo_cnt": 15
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 10
+    }, 
+    {
+        "language": "Kotlin", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "ColdFusion", 
+        "license": "", 
+        "repo_cnt": 222
+    }, 
+    {
+        "language": "UnrealScript", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "TeX", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "HTML", 
+        "license": "unlicense", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Java", 
+        "license": "mit", 
+        "repo_cnt": 587
+    }, 
+    {
+        "language": "Elixir", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C#", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 87
+    }, 
+    {
+        "language": "PowerShell", 
+        "license": "other", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "M4", 
+        "license": "other", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "ASP", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "CoffeeScript", 
+        "license": "other", 
+        "repo_cnt": 15
+    }, 
+    {
+        "language": "Nix", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Nemerle", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Protocol Buffer", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Matlab", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Perl", 
+        "license": "mit", 
+        "repo_cnt": 141
+    }, 
+    {
+        "language": "Scala", 
+        "license": "zlib", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "M4", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C++", 
+        "license": "bsl-1.0", 
+        "repo_cnt": 40
+    }, 
+    {
+        "language": "DOT", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "ooc", 
+        "license": "mit", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "CSS", 
+        "license": "epl-1.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "C#", 
+        "license": "ms-pl", 
+        "repo_cnt": 46
+    }, 
+    {
+        "language": "Java", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 283
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 14
+    }, 
+    {
+        "language": "Arc", 
+        "license": "", 
+        "repo_cnt": 30
+    }, 
+    {
+        "language": "Batchfile", 
+        "license": "", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Vim script", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Shell", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Perl", 
+        "license": "", 
+        "repo_cnt": 10800
+    }, 
+    {
+        "language": "Pure Data", 
+        "license": "mit", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "", 
+        "license": "zlib", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Brightscript", 
+        "license": "other", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Rust", 
+        "license": "other", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "", 
+        "license": "afl-3.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "D", 
+        "license": "other", 
+        "repo_cnt": 28
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "AutoIt", 
+        "license": "other", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Makefile", 
+        "license": "other", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 18
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "apache-2.0", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Standard ML", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Yacc", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "other", 
+        "repo_cnt": 292
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "ms-pl", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "OpenSCAD", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Io", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C++", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 20
+    }, 
+    {
+        "language": "HaXe", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "mit", 
+        "repo_cnt": 26
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "mit", 
+        "repo_cnt": 26
+    }, 
+    {
+        "language": "ChucK", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "AutoHotkey", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Ada", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "zlib", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Visual Basic", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Smarty", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Csound Score", 
+        "license": "mit", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "M4", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "epl-1.0", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "VHDL", 
+        "license": "", 
+        "repo_cnt": 73
+    }, 
+    {
+        "language": "Brightscript", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Perl6", 
+        "license": "", 
+        "repo_cnt": 65
+    }, 
+    {
+        "language": "IDL", 
+        "license": "", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "SQF", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Factor", 
+        "license": "", 
+        "repo_cnt": 15
+    }, 
+    {
+        "language": "Mercury", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "NewLisp", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "SQL", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Awk", 
+        "license": "", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Clean", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Objective-C++", 
+        "license": "", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "Forth", 
+        "license": "", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "Max", 
+        "license": "", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "Scala", 
+        "license": "", 
+        "repo_cnt": 2239
+    }, 
+    {
+        "language": "GDB", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Mathematica", 
+        "license": "", 
+        "repo_cnt": 20
+    }, 
+    {
+        "language": "Pike", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "YASnippet", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "CLIPS", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "", 
+        "license": "", 
+        "repo_cnt": 70349
+    }, 
+    {
+        "language": "HLSL", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Mask", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "GAP", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Smarty", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "KiCad", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Verilog", 
+        "license": "", 
+        "repo_cnt": 82
+    }, 
+    {
+        "language": "sed", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Erlang", 
+        "license": "", 
+        "repo_cnt": 2525
+    }, 
+    {
+        "language": "Agda", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "SuperCollider", 
+        "license": "", 
+        "repo_cnt": 54
+    }, 
+    {
+        "language": "Bison", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Gherkin", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "SAS", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "TeX", 
+        "license": "", 
+        "repo_cnt": 289
+    }, 
+    {
+        "language": "Haskell", 
+        "license": "", 
+        "repo_cnt": 2336
+    }, 
+    {
+        "language": "Arc", 
+        "license": "", 
+        "repo_cnt": 52
+    }, 
+    {
+        "language": "SQLPL", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Web Ontology Language", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Eagle", 
+        "license": "", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Nix", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "C++", 
+        "license": "", 
+        "repo_cnt": 11301
+    }, 
+    {
+        "language": "Mirah", 
+        "license": "", 
+        "repo_cnt": 10
+    }, 
+    {
+        "language": "Processing", 
+        "license": "", 
+        "repo_cnt": 39
+    }, 
+    {
+        "language": "R", 
+        "license": "", 
+        "repo_cnt": 323
+    }, 
+    {
+        "language": "Bro", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Crystal", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "xBase", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Augeas", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Logtalk", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Perl", 
+        "license": "", 
+        "repo_cnt": 12747
+    }, 
+    {
+        "language": "Makefile", 
+        "license": "", 
+        "repo_cnt": 89
+    }, 
+    {
+        "language": "Oxygene", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "CSS", 
+        "license": "", 
+        "repo_cnt": 930
+    }, 
+    {
+        "language": "RPC", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Ada", 
+        "license": "", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "AngelScript", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "VCL", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Rebol", 
+        "license": "", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "Eiffel", 
+        "license": "", 
+        "repo_cnt": 33
+    }, 
+    {
+        "language": "Common Workflow Language", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Cuda", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "F#", 
+        "license": "", 
+        "repo_cnt": 103
+    }, 
+    {
+        "language": "Yacc", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Turing", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Scheme", 
+        "license": "", 
+        "repo_cnt": 641
+    }, 
+    {
+        "language": "OCaml", 
+        "license": "", 
+        "repo_cnt": 441
+    }, 
+    {
+        "language": "PLpgSQL", 
+        "license": "", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "Game Maker Language", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Common Lisp", 
+        "license": "", 
+        "repo_cnt": 1265
+    }, 
+    {
+        "language": "MTML", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "C#", 
+        "license": "", 
+        "repo_cnt": 6261
+    }, 
+    {
+        "language": "HaXe", 
+        "license": "", 
+        "repo_cnt": 99
+    }, 
+    {
+        "language": "Vue", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Go", 
+        "license": "", 
+        "repo_cnt": 493
+    }, 
+    {
+        "language": "ActionScript", 
+        "license": "", 
+        "repo_cnt": 2671
+    }, 
+    {
+        "language": "VimL", 
+        "license": "", 
+        "repo_cnt": 6263
+    }, 
+    {
+        "language": "Racket", 
+        "license": "", 
+        "repo_cnt": 87
+    }, 
+    {
+        "language": "Objective-C", 
+        "license": "", 
+        "repo_cnt": 8122
+    }, 
+    {
+        "language": "FORTRAN", 
+        "license": "", 
+        "repo_cnt": 103
+    }, 
+    {
+        "language": "CMake", 
+        "license": "", 
+        "repo_cnt": 16
+    }, 
+    {
+        "language": "Csound Score", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Fortran", 
+        "license": "", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Pascal", 
+        "license": "", 
+        "repo_cnt": 91
+    }, 
+    {
+        "language": "Lex", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "AGS Script", 
+        "license": "", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Ragel in Ruby Host", 
+        "license": "", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "Clojure", 
+        "license": "", 
+        "repo_cnt": 2181
+    }, 
+    {
+        "language": "Objective-J", 
+        "license": "", 
+        "repo_cnt": 330
+    }, 
+    {
+        "language": "HTML", 
+        "license": "", 
+        "repo_cnt": 1274
+    }, 
+    {
+        "language": "AutoHotkey", 
+        "license": "", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "Ruby", 
+        "license": "", 
+        "repo_cnt": 89959
+    }, 
+    {
+        "language": "Kotlin", 
+        "license": "", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Jupyter Notebook", 
+        "license": "", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "ASP", 
+        "license": "", 
+        "repo_cnt": 87
+    }, 
+    {
+        "language": "Fancy", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "Logos", 
+        "license": "", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Arduino", 
+        "license": "", 
+        "repo_cnt": 15
+    }, 
+    {
+        "language": "M", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Perl 6", 
+        "license": "", 
+        "repo_cnt": 31
+    }, 
+    {
+        "language": "Rouge", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Io", 
+        "license": "", 
+        "repo_cnt": 57
+    }, 
+    {
+        "language": "Nu", 
+        "license": "", 
+        "repo_cnt": 35
+    }, 
+    {
+        "language": "Batchfile", 
+        "license": "", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "Protocol Buffer", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Vim script", 
+        "license": "", 
+        "repo_cnt": 946
+    }, 
+    {
+        "language": "OpenSCAD", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PostScript", 
+        "license": "", 
+        "repo_cnt": 16
+    }, 
+    {
+        "language": "Tcl", 
+        "license": "", 
+        "repo_cnt": 119
+    }, 
+    {
+        "language": "Coq", 
+        "license": "", 
+        "repo_cnt": 8
+    }, 
+    {
+        "language": "Matlab", 
+        "license": "", 
+        "repo_cnt": 102
+    }, 
+    {
+        "language": "MAXScript", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "AutoIt", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "ApacheConf", 
+        "license": "", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "OpenEdge ABL", 
+        "license": "", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "Delphi", 
+        "license": "", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "POV-Ray SDL", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Pure Data", 
+        "license": "", 
+        "repo_cnt": 64
+    }, 
+    {
+        "language": "GLSL", 
+        "license": "", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "Gosu", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Groff", 
+        "license": "", 
+        "repo_cnt": 10
+    }, 
+    {
+        "language": "C", 
+        "license": "", 
+        "repo_cnt": 16811
+    }, 
+    {
+        "language": "Julia", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "PLSQL", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "BitBake", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Standard ML", 
+        "license": "", 
+        "repo_cnt": 13
+    }, 
+    {
+        "language": "Hack", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Roff", 
+        "license": "", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "Java", 
+        "license": "", 
+        "repo_cnt": 19232
+    }, 
+    {
+        "language": "Parrot", 
+        "license": "", 
+        "repo_cnt": 58
+    }, 
+    {
+        "language": "LSL", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Self", 
+        "license": "", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "XQuery", 
+        "license": "", 
+        "repo_cnt": 27
+    }, 
+    {
+        "language": "Swift", 
+        "license": "", 
+        "repo_cnt": 18
+    }, 
+    {
+        "language": "Elm", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Boo", 
+        "license": "", 
+        "repo_cnt": 32
+    }, 
+    {
+        "language": "PowerShell", 
+        "license": "", 
+        "repo_cnt": 34
+    }, 
+    {
+        "language": "XS", 
+        "license": "", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "BlitzMax", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "XSLT", 
+        "license": "", 
+        "repo_cnt": 91
+    }, 
+    {
+        "language": "FLUX", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Elixir", 
+        "license": "", 
+        "repo_cnt": 11
+    }, 
+    {
+        "language": "Assembly", 
+        "license": "", 
+        "repo_cnt": 136
+    }, 
+    {
+        "language": "nesC", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Terra", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "D", 
+        "license": "", 
+        "repo_cnt": 195
+    }, 
+    {
+        "language": "Smalltalk", 
+        "license": "", 
+        "repo_cnt": 68
+    }, 
+    {
+        "language": "ColdFusion", 
+        "license": "", 
+        "repo_cnt": 282
+    }, 
+    {
+        "language": "Stata", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Visual Basic", 
+        "license": "", 
+        "repo_cnt": 359
+    }, 
+    {
+        "language": "TypeScript", 
+        "license": "", 
+        "repo_cnt": 24
+    }, 
+    {
+        "language": "Max/MSP", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "GAMS", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Puppet", 
+        "license": "", 
+        "repo_cnt": 110
+    }, 
+    {
+        "language": "DOT", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Scilab", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Haxe", 
+        "license": "", 
+        "repo_cnt": 17
+    }, 
+    {
+        "language": "Ragel", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "AppleScript", 
+        "license": "", 
+        "repo_cnt": 22
+    }, 
+    {
+        "language": "ooc", 
+        "license": "", 
+        "repo_cnt": 117
+    }, 
+    {
+        "language": "Diff", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "XProc", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Rust", 
+        "license": "", 
+        "repo_cnt": 29
+    }, 
+    {
+        "language": "XML", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Vala", 
+        "license": "", 
+        "repo_cnt": 50
+    }, 
+    {
+        "language": "Python", 
+        "license": "", 
+        "repo_cnt": 31146
+    }, 
+    {
+        "language": "Shell", 
+        "license": "", 
+        "repo_cnt": 5769
+    }, 
+    {
+        "language": "CoffeeScript", 
+        "license": "", 
+        "repo_cnt": 151
+    }, 
+    {
+        "language": "LLVM", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "ChucK", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "HCL", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "QML", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Prolog", 
+        "license": "", 
+        "repo_cnt": 87
+    }, 
+    {
+        "language": "Nemerle", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Dart", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "M4", 
+        "license": "", 
+        "repo_cnt": 14
+    }, 
+    {
+        "language": "eC", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Gnuplot", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "PHP", 
+        "license": "", 
+        "repo_cnt": 20934
+    }, 
+    {
+        "language": "Groovy", 
+        "license": "", 
+        "repo_cnt": 969
+    }, 
+    {
+        "language": "Nginx", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Nim", 
+        "license": "", 
+        "repo_cnt": 3
+    }, 
+    {
+        "language": "REALbasic", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "LilyPond", 
+        "license": "", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "NSIS", 
+        "license": "", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "Emacs Lisp", 
+        "license": "", 
+        "repo_cnt": 4161
+    }, 
+    {
+        "language": "UnrealScript", 
+        "license": "", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "Slash", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "E", 
+        "license": "", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "Lua", 
+        "license": "", 
+        "repo_cnt": 1844
+    }, 
+    {
+        "language": "JavaScript", 
+        "license": "", 
+        "repo_cnt": 42633
+    }, 
+    {
+        "language": "", 
+        "license": "isc", 
+        "repo_cnt": 386
+    }, 
+    {
+        "language": "", 
+        "license": "bsd-3-clause", 
+        "repo_cnt": 3845
+    }, 
+    {
+        "language": "", 
+        "license": "apache-2.0", 
+        "repo_cnt": 5746
+    }, 
+    {
+        "language": "", 
+        "license": "cc-by-4.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "", 
+        "license": "gpl-2.0", 
+        "repo_cnt": 7756
+    }, 
+    {
+        "language": "", 
+        "license": "cc0-1.0", 
+        "repo_cnt": 14
+    }, 
+    {
+        "language": "", 
+        "license": "ofl-1.1", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "", 
+        "license": "unlicense", 
+        "repo_cnt": 265
+    }, 
+    {
+        "language": "", 
+        "license": "bsd-3-clause-clear", 
+        "repo_cnt": 5
+    }, 
+    {
+        "language": "", 
+        "license": "mpl-2.0", 
+        "repo_cnt": 22
+    }, 
+    {
+        "language": "", 
+        "license": "ms-pl", 
+        "repo_cnt": 56
+    }, 
+    {
+        "language": "", 
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1162
+    }, 
+    {
+        "language": "", 
+        "license": "ecl-2.0", 
+        "repo_cnt": 6
+    }, 
+    {
+        "language": "", 
+        "license": "", 
+        "repo_cnt": 258991
+    }, 
+    {
+        "language": "", 
+        "license": "cc-by-sa-4.0", 
+        "repo_cnt": 4
+    }, 
+    {
+        "language": "", 
+        "license": "bsl-1.0", 
+        "repo_cnt": 65
+    }, 
+    {
+        "language": "", 
+        "license": "eupl-1.1", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "", 
+        "license": "epl-1.0", 
+        "repo_cnt": 219
+    }, 
+    {
+        "language": "", 
+        "license": "ms-rl", 
+        "repo_cnt": 2
+    }, 
+    {
+        "language": "", 
+        "license": "mit", 
+        "repo_cnt": 46456
+    }, 
+    {
+        "language": "", 
+        "license": "gpl-3.0", 
+        "repo_cnt": 6927
+    }, 
+    {
+        "language": "", 
+        "license": "wtfpl", 
+        "repo_cnt": 227
+    }, 
+    {
+        "language": "", 
+        "license": "zlib", 
+        "repo_cnt": 98
+    }, 
+    {
+        "language": "", 
+        "license": "lppl-1.3c", 
+        "repo_cnt": 7
+    }, 
+    {
+        "language": "", 
+        "license": "postgresql", 
+        "repo_cnt": 1
+    }, 
+    {
+        "language": "", 
+        "license": "artistic-2.0", 
+        "repo_cnt": 262
+    }, 
+    {
+        "language": "", 
+        "license": "agpl-3.0", 
+        "repo_cnt": 1058
+    }, 
+    {
+        "language": "", 
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1324
+    }, 
+    {
+        "language": "", 
+        "license": "afl-3.0", 
+        "repo_cnt": 122
+    }, 
+    {
+        "language": "", 
+        "license": "osl-3.0", 
+        "repo_cnt": 9
+    }, 
+    {
+        "language": "", 
+        "license": "other", 
+        "repo_cnt": 35632
+    }, 
+    {
+        "language": "", 
+        "license": "bsd-2-clause", 
+        "repo_cnt": 623
+    }, 
+    {
+        "language": "", 
+        "license": "", 
+        "repo_cnt": 371300
+    }
+]

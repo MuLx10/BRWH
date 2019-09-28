@@ -1,0 +1,62 @@
+[
+    {
+        "license": "", 
+        "repo_cnt": 258991
+    }, 
+    {
+        "license": "mit", 
+        "repo_cnt": 46456
+    }, 
+    {
+        "license": "other", 
+        "repo_cnt": 35632
+    }, 
+    {
+        "license": "gpl-2.0", 
+        "repo_cnt": 7756
+    }, 
+    {
+        "license": "gpl-3.0", 
+        "repo_cnt": 6927
+    }, 
+    {
+        "license": "apache-2.0", 
+        "repo_cnt": 5746
+    }, 
+    {
+        "license": "bsd-3-clause", 
+        "repo_cnt": 3845
+    }, 
+    {
+        "license": "lgpl-2.1", 
+        "repo_cnt": 1324
+    }, 
+    {
+        "license": "lgpl-3.0", 
+        "repo_cnt": 1162
+    }, 
+    {
+        "license": "agpl-3.0", 
+        "repo_cnt": 1058
+    }, 
+    {
+        "license": "bsd-2-clause", 
+        "repo_cnt": 623
+    }, 
+    {
+        "license": "isc", 
+        "repo_cnt": 386
+    }, 
+    {
+        "license": "unlicense", 
+        "repo_cnt": 265
+    }, 
+    {
+        "license": "artistic-2.0", 
+        "repo_cnt": 262
+    }, 
+    {
+        "license": "wtfpl", 
+        "repo_cnt": 227
+    }
+]
