@@ -1,3 +1,21 @@
+# BizReach World Hackathon Project
+
+***Group: Mehul and his Chinese friends***
+***Project Name: Coder Finder***
+
+### Rank
+Evaluate and rank (Java) coders.
+
+Implement page rank algorithm and apply on the coder-following-graph. 
+
+Score each coder based on the algorithm output and other attributes.
+
+### Recommend
+Recommend coders who are most interested in companies.
+
+### Analyze and statistic github data
+
+Statistic on the language rank and license rank of around 370,000 repo
 # Requirements
  - Flask
  - Pandas
