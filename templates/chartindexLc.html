@@ -2,14 +2,38 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>Adjustable Pie Chart</title>
+  <title>License Pie Chart</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel="stylesheet" href="static/chartstyle.css"><script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
-
+<link rel="stylesheet" href="static/navstyle.css">
+<script src="https://use.fontawesome.com/3903c9d7fd.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.css" rel="stylesheet">
 </head>
 <body>
+<ul class="menu">
+    <li class="menu_list">
+        <span class="front fas fa-home"></span>
+        <a href="#" class="side">home</a>
+    </li>
+    <li class="menu_list">
+        <span class="front fas fa-info"></span>
+        <a href="{{ url_for('chartL') }}"" class="side">Language</a>
+    </li>
+	<li class="menu_list">
+        <span class="front fas fa-info"></span>
+        <a href="{{ url_for('chartLc') }}"" class="side">License</a>
+    </li>
+    <li class="menu_list">
+        <span class="front fas fa-briefcase"></span>
+        <a href="{{ url_for('recomend') }}" class="side">Recomend</a>
+    </li>
+    <li class="menu_list">
+        <span class="front fas fa-paper-plane"></span>
+        <a href="#" class="side">contact</a>
+    </li>
+</ul>
 <!-- partial:index.partial.html -->
-<main>
+<main style="margin-top:-23%">
   <Br/>
   <Br/>
   <section>

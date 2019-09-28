@@ -2,20 +2,44 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>Product Filter & Sorting</title>
+  <title>Recommendation</title>
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/gumby/2.6.0/css/gumby.min.css'>
 <link rel="stylesheet" href="static/style.css">
-
+<link rel="stylesheet" href="static/navstyle.css">
+<script src="https://use.fontawesome.com/3903c9d7fd.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.css" rel="stylesheet">
 <style>
 </style>
 
 </head>
-<body style = "background-color:#fff">
-	<div style = "border-bottom-color:#0f0; border-width:20px;">
+<body>
+<ul class="menu">
+    <li class="menu_list">
+        <span class="front fas fa-home"></span>
+        <a href="#" class="side">home</a>
+    </li>
+    <li class="menu_list">
+        <span class="front fas fa-info"></span>
+        <a href="{{ url_for('chartL') }}"" class="side">Language</a>
+    </li>
+	<li class="menu_list">
+        <span class="front fas fa-info"></span>
+        <a href="{{ url_for('chartLc') }}"" class="side">License</a>
+    </li>
+    <li class="menu_list">
+        <span class="front fas fa-briefcase"></span>
+        <a href="{{ url_for('recomend') }}" class="side">Recomend</a>
+    </li>
+    <li class="menu_list">
+        <span class="front fas fa-paper-plane"></span>
+        <a href="#" class="side">contact</a>
+    </li>
+</ul>
+	<div style = "border-bottom-color:#0f0; border-width:20px; margin-top:-23%">
 	{% for c in results%}
 	<div class="row">
 	
-		<h1 style="font-size:35px; font-weight: bold;color:#000"> {{c.name}}</h1><hr>
+		<h1 style="font-size:35px; font-weight: bold;color:#fff"> {{c.name}}</h1><hr>
 		<ul>
 			{% for d in c.item%}
 			<a href={{d.url}}>
