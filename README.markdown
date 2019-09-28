@@ -6,7 +6,7 @@
 
 ### Background
 
-As a **Job Agency**, we wanna provide better service for both job-seekers and 
+As a *Recruitment Agency*, we wanna provide better service for both job-seekers and cooperators. Take IT industry as an entry point, we conduct a analysis on gihtub via github official api and some third-party tools. What we wanna provide is the expert candidataes in such programming areas for cooperators and a general distribution of the IT industry itself~
 
 ### Rank
 
