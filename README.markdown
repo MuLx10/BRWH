@@ -14,6 +14,9 @@ Evaluate and rank (Java) coders.
 
 Inspired by ***Page Rank*** algorithm of Google, we a
 
+Various event conducted by the coders will be evaluated 
+Inspired by ***Page Rank*** algorithm of Google, we 
+
 Implement **page rank** algorithm and apply on the coder-following-graph. 
 
 Score each coder based on the algorithm output and other attributes.
