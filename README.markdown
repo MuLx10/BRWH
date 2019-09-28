@@ -40,7 +40,7 @@ python app.py
 [Backend](https://github.com/tyuanhang/BRWH)
 
 # Video
-  [Here you go](https://drive.google.com/file/d/17YVCAFRt-nLCry1ILfA-M-cAqDs9KPx2/view?usp=sharing)
+  [Here you go](https://drive.google.com/file/d/1oGlTDEFcOGJ3Bx7guh8IQYL-BYQPEl_r/view?usp=sharing)
 # Snaps
 ![1](https://user-images.githubusercontent.com/23444642/65814341-399b8a80-e21b-11e9-969f-d7b723f8683d.PNG)
 ![1Capture](https://user-images.githubusercontent.com/23444642/65814342-3a342100-e21b-11e9-839f-0f096a2c7272.PNG)
