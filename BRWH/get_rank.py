@@ -80,7 +80,7 @@ def get_sort_repo(k=15):
     for tmp_idx in range(df.shape[0]):
         cur_usr = df.loc[tmp_idx]
         tmp_score = cur_usr.Follower + cur_usr.pagerank_score
-        score_dct[cur_usr.Name] = (cur_usr.repo_cnt, tmp_score, cur_usr.Follower, int(cur_usr.pagerank_score), cur_usr.avatar_url, cur_usr.other_lang)
+        score_dct[cur_usr.Name] = (cur_usr.repo_cnt, cur_usr.Follower, int(cur_usr.pagerank_score), tmp_score, cur_usr.avatar_url, cur_usr.other_lang)
     #print(score_dct)
     # return
 
