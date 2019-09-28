@@ -6,7 +6,9 @@
 
 ### Background
 
-As a *Recruitment Agency*, we wanna provide better service for both job-seekers and cooperators. Take IT industry as an entry point, we conduct a analysis on gihtub via github official api and some third-party tools. What we wanna provide is the expert candidataes in such programming areas for cooperators and a general distribution of the IT industry itself~
+As a *Recruitment Agency*, we wanna provide better service for both job-seekers and cooperators. Take IT industry as an entry point, we conduct a analysis on gihtub via github official api and some other third-party tools. 
+
+The service we wanna provide finally is the excellent candidataes in such programming areas for cooperators and a general distribution of the IT industry itself for coders.
 
 ### Rank
 
@@ -22,6 +24,8 @@ Implement **page rank** algorithm and apply on the coder-following-graph.
 Score each coder based on the algorithm output and other attributes.
 
 ### Recommend
+
+By 
 Recommend coders who are most interested in companies.
 
 ### Analyze and statistic github data
