@@ -14,19 +14,14 @@ The service we wanna provide finally is the excellent candidataes in such progra
 
 Evaluate and rank (Java) coders.
 
-Inspired by ***Page Rank*** algorithm of Google, we a
+Inspired by ***Page Rank*** algorithm of Google, we evaluated various event conducted by the coders,implement **page rank** algorithm and apply on the coder-following-graph and score each coder based on the algorithm output and other attributes.
 
-Various event conducted by the coders will be evaluated 
-Inspired by ***Page Rank*** algorithm of Google, we 
-
-Implement **page rank** algorithm and apply on the coder-following-graph. 
-
-Score each coder based on the algorithm output and other attributes.
 
 ### Recommend
 
-By 
 Recommend coders who are most interested in companies.
+
+We analyzed all the coders' repositories. For those coders who work in companies, we assumed that their repositories are related to their company.So for all the coders who do not work in any companies, we can calculate the percentage of their repositions which related to each company. And we will recommand companies with top 9 coders whose repositions are most correlated with these companies.
 
 ### Analyze and statistic github data
 
