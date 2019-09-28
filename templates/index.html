@@ -7,77 +7,8 @@
 <link rel="stylesheet" href="static/style.css">
 
 <style>
-    body {
-		padding-top: 30px;
-	}
-	.user {
-		margin-bottom: 30px;
-	}
-	.user-inner {
-		box-shadow: 0 0 10px rgba(0,0,0,.2);
-		padding: 10px;
-	}
-	.user img {
-		margin-bottom: 10px;
-	}
-	.user {
-		margin-bottom: 30px;
-	}
-	.user-inner {
-		box-shadow: 0 0 10px rgba(0,0,0,.2);
-		padding: 10px;
-	}
-	.user img {
-		margin-bottom: 10px;
-	}
-	
-
-.search {
-  float: right;
-  position: relative;
-  bottom: 20px;
-}
-
-.searchIcon {
-  border: 2px solid #7e8186;
-  width: 11px;
-  height: 11px;
-  border-radius: 50%;
-}
-
-.tail {
-  border-radius: 8px;
-  position: relative;
-  left: 11px;
-  bottom: 2px;
-  content: '';
-  height: 3px;
-  width: 5px;
-  background-color: #7e8186;
-  -ms-transform: rotate(40deg); /* IE 9 */
-  -webkit-transform: rotate(40deg); /* Safari */
-  transform: rotate(40deg); /* Standard syntax */
-}
-
-#search-bar {
-  width: 75%;
-  padding: 15px;
-  float: left;
-}
-
-#submit {
-  width: 25%;
-  padding: 15px;
-  float: right;
-}
-
-.textLogo {
-  text-transform: uppercase;
-  color: #7e8186;
-  text-align: center;
-  font-family: 'Oswald', sans-serif;
-}
 </style>
+
 </head>
 <body>
 <div class="row">
@@ -95,6 +26,7 @@
 				<Br/>
 				<button cs-sort="xx"><b>Sort By:</b></button>
 				<span>
+					<button cs-sort="score">Score</button>
 					<button cs-sort="follower">Follower</button>
 					<button cs-sort="repo">Repositories</button>
 				</span>
@@ -106,12 +38,12 @@
 			{% for d in results%}
 			<a href={{d.url}}>
 			<li class="items" cs-category={{d.cat}}>
-				<div class="items-img-holder"><img src={{d.img}} height="100" alt="" /></div>
-				<center>
-					<span class="name">{{d.name}}</span>
-					<span class="user">{{d.user}}</span>
-					<span class="repo">{{d.repo}}</span>
-					<span class="follower">{{d.follower}}</span>
+				<div class="items-img-holder"><img src={{d.avatar_url}} height="100" alt="" /></div>
+				<center style="font-size:10px">
+					<span class="name">Name: {{d.name}}</span><Br/>
+					<span class="repo">Num Repo: {{d.repo}}</span><Br/>
+					<span class="score">PR Score: {{d.score}}</span><Br/>
+					<span class="follower">Num Followers: {{d.follower}}</span>
 				</center>
 			</li>
 			</a>

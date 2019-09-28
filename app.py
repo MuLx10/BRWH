@@ -9,7 +9,8 @@ from flask_bootstrap import Bootstrap
 from collections import Counter
 import pandas as pd
 import numpy as np
-
+from BRWH import get_rank
+from BRWH import user_repos_company
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'hard to guess string'
 app.config['UPLOAD_FOLDER'] = 'data/'
@@ -19,15 +20,21 @@ app.config['THUMBNAIL_FOLDER'] = 'data/thumbnail/'
 bootstrap = Bootstrap(app)
 
 
-data = [{"name": "99","user":"kk","repo":"30", "follower":"9","cat":"user","img":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/36884070_001_b?$large$&defaultImage=","url":"https://www.google.com"}, {"name": "99","user":"kk","repo":"30", "follower":"9","cat":"org","img":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/36884070_001_b?$large$&defaultImage="}]*6
+
 @app.route('/', methods= ['GET','POST'])
 def search():
+    data = get_rank.get_rank()
     if request.method == 'POST':
         print(request.form)
         val = request.form["id"]
         newdata = [ x for x in data if val in x["name"]]
         return render_template('index.html', results = newdata)
     return render_template('index.html', results = data)
+    
+@app.route('/recomend', methods= ['GET','POST'])
+def recomend():
+    data = user_repos_company.get_recomend()
+    return render_template('recomend.html', results = data)
     
 @app.route('/tree', methods= ['GET','POST'])
 def tree():
